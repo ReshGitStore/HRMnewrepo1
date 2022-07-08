@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7" started-at="2022-06-26T18:26:33Z" finished-at="2022-06-26T18:26:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7" started-at="2022-06-26T18:26:33Z" finished-at="2022-06-26T18:26:33Z">
+      <class name="Testcases.leaveverification">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:Testcases.leaveverification@340f438e]" name="launchbrowser" is-config="true" duration-ms="16797" started-at="2022-06-26T23:56:16Z" finished-at="2022-06-26T23:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+      </class> <!-- Testcases.leaveverification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
