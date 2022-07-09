@@ -5,6 +5,8 @@ import org.openqa.selenium.support.FindBy;
 
 public class dashboard  {
 	
+	//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
+	
 
 	@FindBy(xpath="//*[@id=\"menu_dashboard_index\"]/b") 
 	public static WebElement Dashbaord;
