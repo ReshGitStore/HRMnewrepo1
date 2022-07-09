@@ -8,5 +8,10 @@ public class leaveverification extends commonfunction{
 		
 		
 	}
+	
+	public void login() {
+		
+		
+	}
 
 }
